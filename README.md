@@ -54,7 +54,7 @@ Interface inicial com o temporizador de foco de 25 minutos.
 
 Visual diferenciado para pausas, com alterações de cores e mensagens.
 
-![Pausas Curtas - Banner](imagens/banner-curtas.png)
+![Pausas Curtas - Banner](imagens/banner-curta.png)
 ![Pausas Curtas](imagens/fokus-pausa-curta.png)
 
 ![Pausas Longas - Banner](imagens/fokus-banner-longa.png)
