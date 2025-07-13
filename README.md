@@ -16,8 +16,6 @@ O Fokus é uma aplicação interativa que permitiu conhecer mais sobre a **manip
 
 ## 📚 Objetivos do Curso
 
-**👉 JavaScript: manipulando elementos no DOM**
-
 * Identificar e utilizar seletores CSS para interagir com elementos HTML através do JavaScript;
 * Aplicar conhecimentos de JavaScript para manipular o **DOM**;
 * Gerenciar eventos do usuário, como cliques ou envios de formulário;
